@@ -1,0 +1,1767 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"use",
+				"useTrackPads"
+			],
+			[
+				"de",
+				"delay"
+			],
+			[
+				"Clo",
+				"ClosestShip"
+			],
+			[
+				"spe",
+				"speedLimit"
+			],
+			[
+				"mines",
+				"minesCount"
+			],
+			[
+				"Da",
+				"DamageTaken"
+			],
+			[
+				"clos",
+				"closestShip"
+			],
+			[
+				"Cl",
+				"ClosestShip"
+			],
+			[
+				"Ene",
+				"EnergyFireInst"
+			],
+			[
+				"magne",
+				"magnetsCount"
+			],
+			[
+				"game",
+				"gameObject"
+			],
+			[
+				"GetCo",
+				"GetComponentsInChildren"
+			],
+			[
+				"ac",
+				"activeFloats"
+			],
+			[
+				"active",
+				"activeFloats"
+			],
+			[
+				"Game",
+				"Game_HUD"
+			],
+			[
+				"ra",
+				"raceSettings"
+			],
+			[
+				"tra",
+				"traveledDistance"
+			],
+			[
+				"full",
+				"fullSkill"
+			],
+			[
+				"play",
+				"playerDist"
+			],
+			[
+				"con",
+				"contendersProgress"
+			],
+			[
+				"curre",
+				"currentCamSetUp"
+			],
+			[
+				"cu",
+				"currentCamSetUp"
+			],
+			[
+				"Dis",
+				"DisplayScreens"
+			],
+			[
+				"ga",
+				"gameSettings_SetUp"
+			],
+			[
+				"toggle",
+				"toggleID"
+			],
+			[
+				"Get",
+				"GetComponent"
+			],
+			[
+				"act",
+				"activeSliders"
+			],
+			[
+				"acti",
+				"activeSliders"
+			],
+			[
+				"Con",
+				"ControlShipSpeed"
+			],
+			[
+				"er",
+				"errorRange"
+			],
+			[
+				"Ve",
+				"Vector2"
+			],
+			[
+				"dif",
+				"diffTimers"
+			],
+			[
+				"race",
+				"raceLineManipulator"
+			],
+			[
+				"Main",
+				"MainCamera"
+			],
+			[
+				"Camera",
+				"CameraScript"
+			],
+			[
+				"In",
+				"InitiateMenuScreen"
+			],
+			[
+				"gam",
+				"gameSettings_Floats"
+			],
+			[
+				"shade",
+				"shaderLayerMask"
+			],
+			[
+				"data",
+				"dataPath"
+			],
+			[
+				"HorizA",
+				"HorizAxisInputVar"
+			],
+			[
+				"cha",
+				"changeSpeed"
+			],
+			[
+				"li",
+				"limitOffsets"
+			],
+			[
+				"cam",
+				"camOffset"
+			],
+			[
+				"delt",
+				"fixedDeltaTime"
+			],
+			[
+				"Ex",
+				"ShipExternalAxis"
+			],
+			[
+				"camRot",
+				"camRotOffset"
+			],
+			[
+				"for",
+				"forward"
+			],
+			[
+				"pra",
+				"privateAxis"
+			],
+			[
+				"pr",
+				"privateAxis"
+			],
+			[
+				"camOf",
+				"camOffsetPos"
+			],
+			[
+				"Tra",
+				"TransformPoint"
+			],
+			[
+				"lo",
+				"lookDir"
+			],
+			[
+				"Ship",
+				"ShipExternalAxis"
+			],
+			[
+				"r",
+				"rotation"
+			],
+			[
+				"m",
+				"myTransform"
+			],
+			[
+				"ca",
+				"camRotation"
+			],
+			[
+				"speed",
+				"speedclass"
+			],
+			[
+				"time",
+				"timeScale"
+			],
+			[
+				"Di",
+				"DisplayScreens"
+			],
+			[
+				"togg",
+				"toggleIDs"
+			],
+			[
+				"to",
+				"toggleIDs"
+			],
+			[
+				"Hori",
+				"HorizAxisAdd"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"a",
+				"activeToggles"
+			],
+			[
+				"T",
+				"Transform"
+			],
+			[
+				"men",
+				"menuScreens"
+			],
+			[
+				"tab",
+				"tabs"
+			],
+			[
+				"op",
+				"optionsStrings"
+			],
+			[
+				"Fi",
+				"FirstTimeRun"
+			],
+			[
+				"AG",
+				"AGVs"
+			],
+			[
+				"Loa",
+				"LoadGame"
+			],
+			[
+				"save",
+				"saveDelay"
+			],
+			[
+				"Save",
+				"SaveGame"
+			],
+			[
+				"line",
+				"lineData"
+			],
+			[
+				"load",
+				"loadingStage"
+			],
+			[
+				"Strea",
+				"StreamReader"
+			],
+			[
+				"Stream",
+				"StreamWriter"
+			],
+			[
+				"Te",
+				"TerrainParticles"
+			],
+			[
+				"par",
+				"parent"
+			],
+			[
+				"Tim",
+				"fixedDeltaTime"
+			],
+			[
+				"canno",
+				"cannonBullet"
+			],
+			[
+				"exte",
+				"externalAxisRotation"
+			],
+			[
+				"MoveTo",
+				"MoveTowards"
+			],
+			[
+				"roll",
+				"rollTorque"
+			],
+			[
+				"inA",
+				"shipInAirLimit"
+			],
+			[
+				"fix",
+				"fixedDeltaTime"
+			],
+			[
+				"ex",
+				"externalAxisRotation"
+			],
+			[
+				"shipSta",
+				"ShipStats"
+			],
+			[
+				"Load",
+				"LoadWeapon"
+			],
+			[
+				"Co",
+				"Component"
+			],
+			[
+				"what",
+				"whatToErase"
+			],
+			[
+				"off",
+				"offsetVar"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"loaded",
+				"loadedEnemyShips"
+			],
+			[
+				"G",
+				"GUITexture"
+			],
+			[
+				"Vec",
+				"Vector4"
+			],
+			[
+				"se",
+				"selection"
+			],
+			[
+				"option",
+				"optionColor"
+			],
+			[
+				"optio",
+				"optionsStates"
+			],
+			[
+				"na",
+				"names"
+			],
+			[
+				"rigid",
+				"rigidbodyVelocity"
+			],
+			[
+				"del",
+				"deltaTime"
+			],
+			[
+				"Wa",
+				"WarningSigns"
+			],
+			[
+				"Inve",
+				"InverseTransformDirection"
+			],
+			[
+				"NEX",
+				"nextNode"
+			],
+			[
+				"turni",
+				"turningOffset"
+			],
+			[
+				"fly",
+				"flyDir"
+			],
+			[
+				"pre",
+				"prevNode"
+			],
+			[
+				"nav",
+				"navNode"
+			],
+			[
+				"tN",
+				"tNode-2"
+			],
+			[
+				"next",
+				"nextNode"
+			],
+			[
+				"shi",
+				"shipCategory"
+			],
+			[
+				"fl",
+				"flyDir"
+			],
+			[
+				"che",
+				"checkLimit"
+			],
+			[
+				"ne",
+				"nextNode"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"ou",
+				"outFile"
+			],
+			[
+				"co",
+				"cout"
+			],
+			[
+				"Race",
+				"RaceEnd"
+			],
+			[
+				"up",
+				"updateStart"
+			],
+			[
+				"Set",
+				"RaySetUpVectors"
+			],
+			[
+				"Player",
+				"PlayerShipExternalAxis"
+			],
+			[
+				"ray",
+				"raysForces"
+			],
+			[
+				"ShipS",
+				"ShipStability"
+			],
+			[
+				"Tran",
+				"TransformPoint"
+			],
+			[
+				"Play",
+				"PlayerShipExternalAxis"
+			],
+			[
+				"back",
+				"backRayHit"
+			],
+			[
+				"stabi",
+				"stabilityHits"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "WorkTimeCalculatorProject.sublime-project",
+			"settings":
+			{
+				"buffer_size": 89,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Student2/Downloads/Sublime Text Build 3126 x64/Data/Packages/User/OmniSharpSublime.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 168,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "WorkTimeCalculator/WorkTimeCalculatorForm.cs",
+			"settings":
+			{
+				"buffer_size": 4010,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "edi",
+		"selected_items":
+		[
+			[
+				"edi",
+				"Project: Edit Project"
+			],
+			[
+				"reload",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"ed",
+				"Project: Edit Project"
+			],
+			[
+				"pro",
+				"Project: Edit Project"
+			],
+			[
+				"Cscope: ",
+				"Cscope: Look up symbol"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ssujs",
+				"Set Syntax: Unity JavaScript"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syujs",
+				"Set Syntax: Unity JavaScript"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"setsynujs",
+				"Set Syntax: Unity JavaScript"
+			],
+			[
+				"setsynus",
+				"Set Syntax: Unity JavaScript"
+			],
+			[
+				"setsyns",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"setsync++",
+				"Set Syntax: C++"
+			],
+			[
+				"sync",
+				"Set Syntax: C++"
+			],
+			[
+				"packagre",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"synuni",
+				"Set Syntax: Unity JavaScript"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"canc",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"synuj",
+				"Set Syntax: Unity JavaScript"
+			],
+			[
+				"synun",
+				"Set Syntax: Unity JavaScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 448.0
+	},
+	"console":
+	{
+		"height": 308.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Student2/Documents/Visual Studio 2013/Projects/WorkTimeCalculator"
+	],
+	"file_history":
+	[
+		"/C/Users/Student2/Downloads/Sublime Text Build 3126 x64/Data/Packages/User/OmniSharpSublime.sublime-settings",
+		"/C/Users/Bart/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/Z/SlipStream GX Project/Assets/Textures/big_desert_heightmap.RAW",
+		"/Z/SlipStream GX Project/Assets/A_Temporary/Scripts/A_DrawLineInEdit.js",
+		"/Z/SlipStream GX Project/defaultControls.txt",
+		"/Z/Unity 3D Projects/Monster Wiper/Assets/Scripts/Weapons/Plasmagun.cs",
+		"/Z/SlipStream GX Project/Library/metadata/f0/f00a73ae1e4d0604493140ec3eac6e08",
+		"/Z/SlipStream GX Project/Assets/Main_Menu/Scripts/MainMenu.js",
+		"/C/Users/Bart/AppData/Roaming/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+		"/C/Users/Bart/AppData/Roaming/Sublime Text 3/Packages/User/CTags.sublime-settings",
+		"/C/Users/Bart/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Z/SlipStream GX Project/.tags",
+		"/Z/SlipStream GX Project/slipstreamgx_code.sublime-project",
+		"/Z/SlipStream GX Project/Assets/Scripts/ParseTextFile.js",
+		"/Z/SlipStream GX Project/Assets/GUI_Materials/RaceBeginCounter/PlayBlockyAnimation.js",
+		"/Z/SlipStream GX Project/Assets/A_Temporary/pivotCenterDraw.js",
+		"/Z/SlipStream GX Project/Library/AnnotationManager",
+		"/Z/SlipStream GX Project/Assets/Scripts/HUD_Display/Dysfunction_HelperScript.js",
+		"/Z/SlipStream GX Project/Assets/Standard Assets/Image_Effects-Pro_Only/ImageEffects.cs",
+		"/Z/SlipStream GX Project/Assets/Scripts/Weapons_and_PickUps/Wep_Magnet.js",
+		"/Z/SlipStream GX Project/Assets/Standard Assets/ShipEngineFire.mb",
+		"/Z/SlipStream GX Project/Assets/Standard Assets/Image_Effects-Pro_Only/EdgeDetectEffectNormals.js",
+		"/Z/SlipStream GX Project/Library/expandedItems",
+		"/Z/Unity 3D Projects/Plasma_Thruster/Assets/Scripts/Main/ShipController.js",
+		"/Z/SlipStream GX Project/Assets/Scripts/Animation/ParticleSystemManipulator.js",
+		"/Z/SlipStream GX Project/Assets/Plugins/cMonkeys/cGUI.cs",
+		"/Z/SlipStream GX Project/Assets/Standard Assets/SaveLoad/Game.cs",
+		"/Z/SlipStream GX Project/SlipStream GX Project-csharp.sln",
+		"/Z/SlipStream GX Project/Assets/Scripts/Ship_Controls/FullShipController.js",
+		"/Z/SlipStream GX Project/Assembly-UnityScript.unityproj",
+		"/Z/SlipStream GX Project/Assembly-CSharp.csproj",
+		"/Z/SlipStream GX Project/Assets/Scripts/Animation/ShipEngineFire.js",
+		"/Z/SlipStream GX Project/Assets/Scripts/Weapons_and_PickUps/Wep_Atom.js",
+		"/Z/SlipStream GX Project/Assets/Scripts/HUD_Display/Game_HUD.js",
+		"/Z/SlipStream GX Project/Assets/Scripts/KeyScripts/AllGameValues.js",
+		"/Z/SlipStream GX Project/Assets/Scripts/KeyScripts/RaceSequencer.js",
+		"/Z/SlipStream GX Project/Assets/Scripts/Ship_Controls/ShipActualPlace.js",
+		"/Z/SlipStream GX Project/ProjectSettings/InputManager.asset",
+		"/Z/SlipStream GX Project/Assets/Tracks_Ships/Ship_Models/Teams/CENR/ARC150/CENR_AR34.FBX",
+		"/Z/SlipStream GX Project/Assets/Sounds/Blocky/atom.mp3",
+		"/Z/SlipStream GX Project/Assets/Main_Menu/T_Option.prefab",
+		"/Z/SlipStream GX Project/Assets/A_Temporary.meta",
+		"/C/Users/Bart/AppData/Roaming/Sublime Text 3/Packages/User/UnityJavaScript.sublime-settings",
+		"/Z/SlipStream GX Project/Assets/GUI_Materials/Fonts.meta",
+		"/Z/SlipStream GX Project/Assets/Scripts/Camera_Controls/CameraScript.js",
+		"/Z/SlipStream GX Project/Assets/Scripts/KeyScripts/ShipWreckScript.js",
+		"/Z/SlipStream GX Project/Assets/OriginalMusic/Shem - Haywire.ogg",
+		"/Z/SlipStream GX Project/Assets/A_Temporary/Prefabs/AirTime.prefab",
+		"/Z/SlipStream GX Project/Assets/A_Prefabs/SoundEffects/AGDeviceRunning(S).prefab",
+		"/Z/SlipStream GX Project/Assets/Scripts/HUD_Display/InGame_Menus.js",
+		"/Z/SlipStream GX Project/Assets/Scripts/Ship_Controls/ArtificialIntelligenceModule.js",
+		"/Z/SlipStream GX Project/Assets/Scripts/Weapons_and_PickUps/Wep_Rocket.js",
+		"/Z/SlipStream GX Project/Assets/Terrain Assets/Rocks.meta",
+		"/Z/SlipStream GX Project/Assets/Scripts/Animation/RotateObject.js",
+		"/Z/SlipStream GX Project/Assets/Standard Assets/Skyboxes/MoonShine Skybox.mat",
+		"/C/Users/Bart/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Bart/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/Z/Unity 3D Projects/Monster Wiper/Assets/Scripts/Player/Player.js",
+		"/Z/SlipStream GX Project/Assets/Scripts/Camera_Controls.meta",
+		"/Z/SlipStream GX Project/Assets/Standard Assets/Image_Effects-Pro_Only/ContrastEnhance.js",
+		"/Z/SlipStream GX Project/Assets/Tracks_Ships/Materials/Concrete_Non-Uniform, Gray.mat",
+		"/Z/SlipStream GX Project/Assets/Sounds/Ship_and_Interfaces/MM_ScreenChange.OGG",
+		"/C/Users/Bart/AppData/Roaming/Sublime Text 3/Packages/User/bh_core.sublime-settings",
+		"/C/Users/Bart/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/Example.sublime-keymap",
+		"/C/Users/Bart/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/Z/SlipStream GX Project/Assets/Standard Assets/SaveLoad/MainMenu.cs",
+		"/Z/SlipStream GX Project/Assets/Sounds/Environment/marine_ambients.ogg",
+		"/Z/SlipStream GX Project/Assets/Managed.meta",
+		"/Z/SlipStream GX Project/Assets/A_Temporary/quickRename.js",
+		"/Z/SlipStream GX Project/Assets/Main_Menu/MainMenuElements.meta",
+		"/Z/SlipStream GX Project/Assets/SaveLoad/MainMenu.cs",
+		"/Z/SlipStream GX Project/Assets/SaveLoad/SaveLoad.cs",
+		"/Z/SlipStream GX Project/Assets/SaveLoad/Gameplay.cs",
+		"/Z/SlipStream GX Project/Assets/SaveLoad/Game.cs",
+		"/Z/SlipStream GX Project/Assets/SaveLoad/Character.cs",
+		"/Z/SlipStream GX Project/Assets/Standard Assets/Image_Effects-Pro_Only/CameraMotionBlur.js",
+		"/Z/SlipStream GX Project/Assets/Scripts/Weapons_and_PickUps/Absorbation.js",
+		"/Z/SlipStream GX Project/Assets/Scripts/Weapons_and_PickUps/Teleporter.js",
+		"/Z/SlipStream GX Project/Assets/Scripts/Weapons_and_PickUps/Wep_Boost.js",
+		"/Z/SlipStream GX Project/Assets/Scripts/Weapons_and_PickUps/Wep_Mine.js",
+		"/Z/SlipStream GX Project/Assets/Scripts/Weapons_and_PickUps/Wep_Missile.js",
+		"/Z/SlipStream GX Project/Assets/Scripts/Weapons_and_PickUps/Wep_Phantomizer.js",
+		"/Z/SlipStream GX Project/Assets/Scripts/Weapons_and_PickUps/Wep_TMine.js",
+		"/Z/SlipStream GX Project/Assets/Scripts/Weapons_and_PickUps/Wep_Tractorbeam.js",
+		"/Z/SlipStream GX Project/Assets/Main_Menu/Scripts/ElementWtOptions.js",
+		"/Z/SlipStream GX Project/Assets/Managed/mslanglib.dll",
+		"/Z/SlipStream GX Project/Assets/GUI_Materials/new_in-game_menus/guiElements/volumeSliderBG.png.meta",
+		"/Z/SlipStream GX Project/Assets/Scripts/Ship_Controls/ShipAxis.js",
+		"/Z/SlipStream GX Project/Assets/Scripts/Weapons_and_PickUps/Wep_Cannon.js",
+		"/Z/SlipStream GX Project/Assets/Plugins/qTools.js",
+		"/Z/Unity 3D Projects/Monster Wiper/Assets/Scripts/PlayerControls.js",
+		"/Z/Unity 3D Projects/Monster Wiper/Assets/Scripts/GameTools.js",
+		"/Z/SlipStream GX Project/Assets/Sounds/Blocky/cannon.mp3",
+		"/Z/SlipStream GX Project/Assets/Pre-set_Scenes/Cassandra_new.meta",
+		"/Z/SlipStream GX Project/Assets/UnityTestTools/Examples/IntegrationTestsFrameworkExamples/AngryBotsTests/Scripts/Animation/MechAnimation.js",
+		"/Z/SlipStream GX Project/Assets/A_Prefabs/Ship_Models/Menu/Mn_Amphi_150.prefab",
+		"/Z/SlipStream GX Project/Assets/Standard Assets/TESTING_DEBUGGING/AntigravityTest.js",
+		"/Z/SlipStream GX Project/Assets/A_Prefabs/Miscellaneous/GravityParticleImpulse.prefab",
+		"/Z/SlipStream GX Project/Assets/Terrain Assets/Grass.meta",
+		"/Z/SlipStream GX Project/Assets/Tracks_Ships/Materials/Grass&Rock.mat",
+		"/Z/SlipStream GX Project/Assets/GUI_Materials/Fonts/Axaxax.ttf.meta",
+		"/Z/SlipStream GX Project/Assets/Scripts/KeyScripts/LoadingScreen.js",
+		"/Z/SlipStream GX Project/Assets/Scripts/KeyScripts/Achievements.js",
+		"/Z/SlipStream GX Project/Assets/Scripts/Other/Tutorial.js",
+		"/Z/SlipStream GX Project/Assets/A_Temporary/TrackEditor/TrackEditor.js",
+		"/Z/SlipStream GX Project/Assets/Scripts/Animation/YourDeathCounter.js",
+		"/Z/SlipStream GX Project/Assets/A_Temporary/stabilityRays_debugTool.js",
+		"/Z/SlipStream GX Project/Assets/Scripts/Weapons_and_PickUps/Wep_EMP.js",
+		"/Z/SlipStream GX Project/Assets/Scripts/Other/TunnelLight.js",
+		"/Z/SlipStream GX Project/Assets/Scripts/Other/CollisionTransfer.js",
+		"/Z/Unity 3D Projects/Monster Wiper/Assets/entrances.js",
+		"/Z/SlipStream GX Project/Assets/Scripts/Other/ThrusterTrail.js",
+		"/Z/SlipStream GX Project/Assets/Scripts/Weapons_and_PickUps/SpeedPadSpeedUp.js",
+		"/Z/SlipStream GX Project/Assets/Scripts/Weapons_and_PickUps/Speed_and_Wep_Pad.js",
+		"/Z/SlipStream GX Project/Assets/Scripts/Other/SetAudioVolume.js",
+		"/Z/SlipStream GX Project/Assets/Scripts/Other/MimicParentRotation.js",
+		"/Z/SlipStream GX Project/Assets/Sounds/Weapons_and_Explosions/RocketShot.mp3",
+		"/Z/SlipStream GX Project/Assets/A_Prefabs/Miscellaneous.meta",
+		"/Z/SlipStream GX Project/Assets/GUI_Materials/Fonts/MyriadPro-It.otf",
+		"/Z/SlipStream GX Project/Assets/Editor/Water-Pro_Only/Water4/WaterEditorUtility.cs",
+		"/Z/SlipStream GX Project/Assets/A_Temporary/W_RocketArm.prefab",
+		"/Z/SlipStream GX Project/Assets/Textures/Water.mat",
+		"/Z/SlipStream GX Project/Assets/Sounds/Blocky/teleporter.mp3",
+		"/Z/SlipStream GX Project/Assets/Main_Menu/MainMenuElements/TeamsLogos.meta",
+		"/Z/SlipStream GX Project/Assets/A_Temporary/TrackEditor.meta",
+		"/Z/SlipStream GX Project/Assets/Textures.meta",
+		"/C/Users/Bart/Documents/Visual Studio 2010/Projects/Matura_Informatyka/Debug/Matura_Informatyka.cpp",
+		"/Z/SlipStream GX Project/Assets/A_Temporary/TrackEditor/DebugLine_NodeEditor.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"",
+			"Z:\\SlipStream GX Project\\Assets",
+			"",
+			"Z:\\SlipStream GX Project\\Assets\\Scripts,-*.meta",
+			"Z:\\SlipStream GX Project\\Assets\\Scripts",
+			"Z:\\SlipStream GX Project\\Assets",
+			"Z:\\SlipStream GX Project\\Assets\\Scripts",
+			"Z:\\SlipStream GX Project\\Assets",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\",
+			"shipHitStrength",
+			"private",
+			"TimerForCameraChange",
+			"Listing",
+			"CAMERA_MODE",
+			"= 0",
+			"speedLimit",
+			"minesCount",
+			"closestShip",
+			"LoadWeapon",
+			"break",
+			"Active",
+			"User",
+			"Wep_Boost",
+			"fire",
+			"Fire",
+			"fire",
+			"droppedPickups",
+			"private",
+			"GetComponentInChildren",
+			"0.2",
+			"+=",
+			"HorizAxis",
+			"ControlHUDOffset",
+			"player",
+			"timeScale",
+			"gToggle",
+			"activeSliders",
+			"dSlider",
+			"GUITexture",
+			"activeSliders",
+			"activeFloats",
+			"acti",
+			"gSlider",
+			"guiToggle",
+			"guiSlider",
+			"overpowerMultiplier",
+			"AI_DifficultySettings",
+			" ",
+			"ThrustInput",
+			"sortedShips",
+			"EnemyAIScripts",
+			"time.timescale",
+			"hud",
+			"loadingStage",
+			"gameSettings_SetUp",
+			"activeToggles",
+			"toggles",
+			"ToggleOptions",
+			"ID",
+			"activeToggles",
+			"selection",
+			"toggleIDs[ID]",
+			"gameSettings_Toggles",
+			"lineData",
+			"s",
+			"gameSettings_Toggles",
+			"dataLoaded",
+			"SaveGameTimer",
+			"toggles",
+			"Destroy",
+			"2",
+			"speedLimit",
+			"speedLimits",
+			"errorRange",
+			"6",
+			"AI_DifficultySettings",
+			"raceLineManipulator =",
+			"//",
+			"errorRange",
+			"errorRange[0]",
+			"errorRange",
+			"//",
+			" //",
+			",",
+			"useTrackPads",
+			"MainCamera",
+			"InitiateMenuScreen",
+			"0",
+			"InitiateMenuScreen",
+			"0",
+			"InitiateMenuScreen",
+			"0",
+			"InitiateMenuScreen",
+			"0",
+			"InitiateMenuScreen",
+			"0",
+			"InitiateMenuScreen",
+			"{",
+			"if",
+			"Vector3",
+			"gameSettings_Floats",
+			"s",
+			"b",
+			"a",
+			"l",
+			"i",
+			"String",
+			"Add",
+			"b",
+			"a",
+			"l",
+			"s",
+			";",
+			"var",
+			"Weapons",
+			"@HideInInspector",
+			"@HideInInspector ",
+			"ThrustersInUse",
+			"SpeedPadOn",
+			"saveDelay",
+			"1f",
+			"print",
+			"persistentDataPath",
+			"Healthbar",
+			"EnemyAI",
+			"private",
+			"Handling",
+			"10",
+			"NoOfHitSpeedPads",
+			"results",
+			"super",
+			"ff",
+			"shakeOffset",
+			"NewCamera",
+			"ShipExternalAxisS",
+			"CameraHitOffset"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"protected",
+			"fires",
+			"IDs[\"s\"]",
+			"IDs[\"b\"]",
+			"IDs[\"a\"]",
+			"IDs[\"l\"]",
+			"IDs[\"i\"]",
+			"IDs[b]",
+			"IDs[a]",
+			"IDs[l]",
+			"IDs[s]",
+			"Debug.Log",
+			"HealthBar",
+			"prevAxisPosition",
+			"cameraPositionOffset",
+			"cameraOffsetDelayed",
+			"newCameraPosition",
+			"GCs",
+			"HUD",
+			"nodeOffset",
+			"Node",
+			"nodeOffset",
+			"i",
+			"Time.fixedDeltaTime",
+			"GCs",
+			"fixedDeltaTime",
+			"groundHeightDiff",
+			"y",
+			"groundHeightDiff[0].z",
+			"groundHeightDiff[0].x",
+			"groundHeightDiff[0].y",
+			"groundHeightDiff[1].y",
+			"lifeTime",
+			"parts.renderer",
+			"lifeTime",
+			"originalMaterialsMain",
+			"actualScreen != 1",
+			"actualScreen == 1",
+			"fireLight",
+			"Achievements.GetInstance().AchievementReset();",
+			"User",
+			"user",
+			"groundHeightDiff[2]",
+			"groundHeightDiff[1]",
+			"groundHeightDiff[0]",
+			"groundHeightDiff[2]",
+			"groundHeightDiff[1]",
+			"groundHeightDiff[0]",
+			"USER",
+			".x",
+			"x",
+			"s",
+			"x",
+			"s",
+			"airbrakesRotation.y",
+			"airbrakesRotation.x",
+			"lm_pl_twall",
+			"lm_trackWall",
+			"lm_track",
+			"shipStandbyAnimation.y",
+			"shipStandbyAnimation.z",
+			"shipStandbyAnimation.x",
+			"shipToGroundAngle",
+			"prevBRAxisValue",
+			"prevHorizAxisInput",
+			"groundHeightDiff[2]",
+			"groundHeightDiff[1]",
+			"groundHeightDiff[0]",
+			"groundHeightDiff[2]",
+			"groundHeightDiff[1]",
+			"groundHeightDiff[0]",
+			"groundHeight",
+			"prevGroundHeight",
+			"hit",
+			"rigidbodyVelocity.z",
+			"rigidbodyVelocity.y",
+			"rigidbodyVelocity.x",
+			"privateAxis",
+			"externalAxisVelocity",
+			"rigidbodyVelocity",
+			"Time.fixedDeltaTime",
+			"rigidbodyVelocity.z",
+			"rigidbodyVelocity.y",
+			"rigidbodyVelocity.x",
+			"GetAxisRaw",
+			"maxBarrelRolls",
+			"MaxBarrelRolls",
+			"LoadRacingShips",
+			"RaceShipsLoaded",
+			"Right airbrake",
+			"Left airbrake",
+			"Right Airbrake",
+			"Left Airbrake",
+			"Right airbrake",
+			"Left airbrake",
+			"Pause",
+			"Use pickup",
+			"Change camera",
+			"cInput"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "WorkTimeCalculatorProject.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 89,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								89,
+								89
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "json",
+							"buffer_scroll_name": "b87167b6",
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"function_name_status_row": 9,
+							"history_list_is_closing": true,
+							"spell_check": false,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Student2/Downloads/Sublime Text Build 3126 x64/Data/Packages/User/OmniSharpSublime.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 168,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								44,
+								44
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "json",
+							"buffer_scroll_name": "db14f34c",
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"function_name_status_row": 1,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 40.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "WorkTimeCalculator/WorkTimeCalculatorForm.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4010,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								608,
+								608
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "unityc#",
+							"buffer_scroll_name": "00fcd198",
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"function_name_status_row": 27,
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "WorkTimeCalculatorProject.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"workti",
+				"WorkTimeCalculator\\WorkTimeCalculatorForm.cs"
+			],
+			[
+				"",
+				"ConsoleApplication5\\CustomEngine.cs"
+			],
+			[
+				"consoleapcs",
+				"ConsoleApplication5\\Program.cs"
+			],
+			[
+				"sc",
+				"ConsoleApplication5\\Screen.cs"
+			],
+			[
+				"draw",
+				"Assets\\A_Temporary\\pivotCenterDraw.js"
+			],
+			[
+				"fsc",
+				"Assets\\Scripts\\Ship_Controls\\FullShipController.js"
+			],
+			[
+				"missile",
+				"Assets\\Scripts\\Weapons_and_PickUps\\Wep_Missile.js"
+			],
+			[
+				"rocketjs",
+				"Assets\\Scripts\\Weapons_and_PickUps\\Wep_Rocket.js"
+			],
+			[
+				"came",
+				"Assets\\Scripts\\Camera_Controls\\CameraScript.js"
+			],
+			[
+				"camer",
+				"Assets\\Scripts\\Camera_Controls\\CameraScript.js"
+			],
+			[
+				"part",
+				"Assets\\Scripts\\Animation\\ParticleSystemManipulator.js"
+			],
+			[
+				"magne",
+				"Assets\\Scripts\\Weapons_and_PickUps\\Wep_Magnet.js"
+			],
+			[
+				"aim",
+				"Assets\\Scripts\\Ship_Controls\\ArtificialIntelligenceModule.js"
+			],
+			[
+				"magnet",
+				"Assets\\Scripts\\Weapons_and_PickUps\\Wep_Magnet.js"
+			],
+			[
+				"magen",
+				"Assets\\Scripts\\Weapons_and_PickUps\\Wep_Magnet.js"
+			],
+			[
+				"loading",
+				"Assets\\Scripts\\KeyScripts\\LoadingScreen.js"
+			],
+			[
+				"races",
+				"Assets\\Scripts\\KeyScripts\\RaceSequencer.js"
+			],
+			[
+				"gam",
+				"Assets\\Scripts\\HUD_Display\\Game_HUD.js"
+			],
+			[
+				"agvs",
+				"Assets\\Scripts\\KeyScripts\\AllGameValues.js"
+			],
+			[
+				"agv",
+				"Assets\\Scripts\\KeyScripts\\AllGameValues.js"
+			],
+			[
+				"game",
+				"Assets\\Scripts\\HUD_Display\\Game_HUD.js"
+			],
+			[
+				"camea",
+				"Assets\\Scripts\\Camera_Controls\\CameraScript.js"
+			],
+			[
+				"shipa",
+				"Assets\\Scripts\\Ship_Controls\\ShipActualPlace.js"
+			],
+			[
+				"ship",
+				"Assets\\Scripts\\Ship_Controls\\ShipActualPlace.js"
+			],
+			[
+				"inga",
+				"Assets\\Scripts\\HUD_Display\\InGame_Menus.js"
+			],
+			[
+				"camerajs",
+				"Assets\\Scripts\\Camera_Controls\\CameraScript.js"
+			],
+			[
+				"gamehu",
+				"Assets\\Scripts\\HUD_Display\\Game_HUD.js"
+			],
+			[
+				"atomjs",
+				"Assets\\Scripts\\Weapons_and_PickUps\\Wep_Atom.js"
+			],
+			[
+				"cam",
+				"Assets\\Scripts\\Camera_Controls\\CameraScript.js"
+			],
+			[
+				"shipac",
+				"Assets\\Scripts\\Ship_Controls\\ShipActualPlace.js"
+			],
+			[
+				"arti",
+				"Assets\\Scripts\\Ship_Controls\\ArtificialIntelligenceModule.js"
+			],
+			[
+				"shipengine",
+				"Assets\\Scripts\\Animation\\ShipEngineFire.js"
+			],
+			[
+				"racese",
+				"Assets\\Scripts\\KeyScripts\\RaceSequencer.js"
+			],
+			[
+				"camera",
+				"Assets\\Scripts\\Camera_Controls\\CameraScript.js"
+			],
+			[
+				"in",
+				"Assets\\Scripts\\HUD_Display\\InGame_Menus.js"
+			],
+			[
+				"mainmenujs",
+				"Assets\\Main_Menu\\Scripts\\MainMenu.js"
+			],
+			[
+				"mainmenu",
+				"Assets\\Standard Assets\\SaveLoad\\MainMenu.cs"
+			],
+			[
+				"rac",
+				"Assets\\Scripts\\KeyScripts\\RaceSequencer.js"
+			],
+			[
+				"camerjs",
+				"Assets\\Scripts\\Camera_Controls\\CameraScript.js"
+			],
+			[
+				"ingame",
+				"Assets\\Scripts\\HUD_Display\\InGame_Menus.js"
+			],
+			[
+				"main",
+				"Assets\\Main_Menu\\Scripts\\MainMenu.js"
+			],
+			[
+				"cannonjs",
+				"Assets\\Scripts\\Weapons_and_PickUps\\Wep_Cannon.js"
+			],
+			[
+				"fscjs",
+				"Assets\\Scripts\\Ship_Controls\\FullShipController.js"
+			],
+			[
+				"manipjs",
+				"Assets\\Scripts\\Animation\\ParticleSystemManipulator.js"
+			],
+			[
+				"axisjs",
+				"Assets\\Scripts\\Ship_Controls\\ShipAxis.js"
+			],
+			[
+				"cameajs",
+				"Assets\\Scripts\\Camera_Controls\\CameraScript.js"
+			],
+			[
+				"tele",
+				"Assets\\Scripts\\Weapons_and_PickUps\\Teleporter.js"
+			],
+			[
+				"qt",
+				"Assets\\Plugins\\qTools.js"
+			],
+			[
+				"missilejs",
+				"Assets\\Scripts\\Weapons_and_PickUps\\Wep_Missile.js"
+			],
+			[
+				"wreckjs",
+				"Assets\\Scripts\\KeyScripts\\ShipWreckScript.js"
+			],
+			[
+				"teleporter",
+				"Assets\\Scripts\\Weapons_and_PickUps\\Teleporter.js"
+			],
+			[
+				"race",
+				"Assets\\Scripts\\KeyScripts\\RaceSequencer.js"
+			],
+			[
+				"gamehud",
+				"Assets\\Scripts\\HUD_Display\\Game_HUD.js"
+			],
+			[
+				"empjs",
+				"Assets\\Scripts\\Weapons_and_PickUps\\Wep_EMP.js"
+			],
+			[
+				"ra",
+				"Assets\\Scripts\\KeyScripts\\RaceSequencer.js"
+			],
+			[
+				"raceseque",
+				"Assets\\Scripts\\KeyScripts\\RaceSequencer.js"
+			],
+			[
+				"fs",
+				"Assets\\Scripts\\Ship_Controls\\FullShipController.js"
+			],
+			[
+				"element",
+				"Assets\\Main_Menu\\Scripts\\ElementWtOptions.js"
+			],
+			[
+				"mainmen",
+				"Assets\\Main_Menu\\Scripts\\MainMenu.js"
+			],
+			[
+				"shipwre",
+				"Assets\\Scripts\\KeyScripts\\ShipWreckScript.js"
+			],
+			[
+				"aimjs",
+				"Assets\\Scripts\\Ship_Controls\\ArtificialIntelligenceModule.js"
+			],
+			[
+				"shi",
+				"Assets\\Scripts\\Ship_Controls\\ShipActualPlace.js"
+			],
+			[
+				"gameh",
+				"Assets\\Scripts\\HUD_Display\\Game_HUD.js"
+			],
+			[
+				"loadingjs",
+				"Assets\\Scripts\\KeyScripts\\LoadingScreen.js"
+			],
+			[
+				"shipplace",
+				"Assets\\Scripts\\Ship_Controls\\ShipActualPlace.js"
+			],
+			[
+				"raceseqjs",
+				"Assets\\Scripts\\KeyScripts\\RaceSequencer.js"
+			],
+			[
+				"shipaxijs",
+				"Assets\\Scripts\\Ship_Controls\\ShipAxis.js"
+			],
+			[
+				"actualplajs",
+				"Assets/Scripts/Ship_Controls/ShipActualPlace.js"
+			],
+			[
+				"racejs",
+				"Assets/Scripts/KeyScripts/RaceSequencer.js"
+			],
+			[
+				"trailjs",
+				"Assets/Scripts/Other/ThrusterTrail.js"
+			],
+			[
+				"enginefirejs",
+				"Assets/Scripts/Animation/ShipEngineFire.js"
+			],
+			[
+				"tractjs",
+				"Assets/Scripts/Weapons_and_PickUps/Wep_Tractorbeam.js"
+			],
+			[
+				"phantomjs",
+				"Assets/Scripts/Weapons_and_PickUps/Wep_Phantomizer.js"
+			],
+			[
+				"atom",
+				"Assets/Scripts/Weapons_and_PickUps/Wep_Atom.js"
+			],
+			[
+				"wepsp",
+				"Assets/Scripts/Weapons_and_PickUps/Speed_and_Wep_Pad.js"
+			],
+			[
+				"weapspeejs",
+				"Assets/Scripts/Weapons_and_PickUps/Speed_and_Wep_Pad.js"
+			],
+			[
+				"tmine",
+				"Assets/Scripts/Weapons_and_PickUps/Wep_TMine.js"
+			],
+			[
+				"magnetjs",
+				"Assets/Scripts/Weapons_and_PickUps/Wep_Magnet.js"
+			],
+			[
+				"magnejs",
+				"Assets/Scripts/Weapons_and_PickUps/Wep_Magnet.js"
+			],
+			[
+				"agvjs",
+				"Assets/Scripts/KeyScripts/AllGameValues.js"
+			],
+			[
+				"setaudijs",
+				"Assets/Scripts/Other/SetAudioVolume.js"
+			],
+			[
+				"majs",
+				"Assets/Main_Menu/Scripts/MainMenu.js"
+			],
+			[
+				"padjs",
+				"Assets/Scripts/Weapons_and_PickUps/Speed_and_Wep_Pad.js"
+			],
+			[
+				"achievejs",
+				"Assets/Scripts/KeyScripts/Achievements.js"
+			],
+			[
+				"tminejs",
+				"Assets/Scripts/Weapons_and_PickUps/Wep_TMine.js"
+			],
+			[
+				"minejs",
+				"Assets/Scripts/Weapons_and_PickUps/Wep_Mine.js"
+			],
+			[
+				"uvmovingjs",
+				"Assets/Scripts/Animation/UVMoving.js"
+			],
+			[
+				"maijs",
+				"Assets/Main_Menu/Scripts/MainMenu.js"
+			],
+			[
+				"mmjs",
+				"Assets/Main_Menu/Scripts/MainMenu.js"
+			],
+			[
+				"mainjs",
+				"Assets/cMonkeys/cInput/Demo/Scenes/Main (JS).unity"
+			],
+			[
+				"mainmjs",
+				"Assets/Main_Menu/Scripts/MainMenu.js"
+			],
+			[
+				"enginejs",
+				"Assets/Scripts/Animation/ShipEngineFire.js"
+			],
+			[
+				"artif",
+				"/Z/SlipStream GX Project/Assets/Scripts/Ship_Controls/ArtificialIntelligenceModule.js"
+			],
+			[
+				"track",
+				"/Z/SlipStream GX Project/Assets/A_Temporary/TrackEditor/TrackEditor.js"
+			],
+			[
+				"achieveme",
+				"/Z/SlipStream GX Project/Assets/Scripts/KeyScripts/Achievements.js"
+			],
+			[
+				"achie",
+				"/Z/SlipStream GX Project/Assets/Scripts/KeyScripts/Achievements.js"
+			],
+			[
+				"achi",
+				"/Z/SlipStream GX Project/Assets/Scripts/KeyScripts/Achievements.js"
+			],
+			[
+				"actua",
+				"/Z/SlipStream GX Project/Assets/Scripts/Ship_Controls/ShipActualPlace.js"
+			],
+			[
+				"canno",
+				"/Z/SlipStream GX Project/Assets/Scripts/Weapons_and_PickUps/Wep_Cannon.js"
+			],
+			[
+				"shipe",
+				"/Z/SlipStream GX Project/Assets/Scripts/Animation/ShipEngineFire.js"
+			],
+			[
+				"thru",
+				"/Z/SlipStream GX Project/Assets/Scripts/Other/ThrusterTrail.js"
+			],
+			[
+				"thruste",
+				"/Z/SlipStream GX Project/Assets/Scripts/Other/ThrusterTrail.js"
+			],
+			[
+				"fire",
+				"/Z/SlipStream GX Project/Assets/Scripts/Animation/ShipEngineFire.js"
+			],
+			[
+				"ene",
+				"/Z/SlipStream GX Project/Assets/Scripts/Ship_Controls/EnemyShipAI.js"
+			],
+			[
+				"en",
+				"/Z/SlipStream GX Project/Assets/Scripts/Ship_Controls/EnemyShipAI.js"
+			],
+			[
+				"ag",
+				"/Z/SlipStream GX Project/Assets/Scripts/KeyScripts/AllGameValues.js"
+			],
+			[
+				"enem",
+				"/Z/SlipStream GX Project/Assets/Scripts/Ship_Controls/EnemyShipAI.js"
+			],
+			[
+				"cs",
+				"/Z/SlipStream GX Project/Assets/Scripts/Camera_Controls/CameraScript.js"
+			],
+			[
+				"ma",
+				"/Z/SlipStream GX Project/Assets/Main_Menu/Scripts/MainMenu.js"
+			],
+			[
+				"ca",
+				"/Z/SlipStream GX Project/Assets/Scripts/Camera_Controls/PhotoMode.js"
+			],
+			[
+				"mai",
+				"/Z/SlipStream GX Project/Assets/Main_Menu/Scripts/MainMenu.js"
+			],
+			[
+				"al",
+				"/Z/SlipStream GX Project/Assets/Scripts/KeyScripts/AllGameValues.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Z:\\Unity 3D Projects\\Monster Wiper\\monster_wiper_sublime.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,9 @@
+c:\users\student2\documents\visual studio 2013\Projects\WorkTimeCalculator\WorkTimeCalculator\bin\Debug\WorkTimeCalculator.exe.config
+c:\users\student2\documents\visual studio 2013\Projects\WorkTimeCalculator\WorkTimeCalculator\bin\Debug\WorkTimeCalculator.exe
+c:\users\student2\documents\visual studio 2013\Projects\WorkTimeCalculator\WorkTimeCalculator\bin\Debug\WorkTimeCalculator.pdb
+c:\users\student2\documents\visual studio 2013\Projects\WorkTimeCalculator\WorkTimeCalculator\obj\Debug\WorkTimeCalculator.csprojResolveAssemblyReference.cache
+c:\users\student2\documents\visual studio 2013\Projects\WorkTimeCalculator\WorkTimeCalculator\obj\Debug\WorkTimeCalculator.WorkTimeCalculatorForm.resources
+c:\users\student2\documents\visual studio 2013\Projects\WorkTimeCalculator\WorkTimeCalculator\obj\Debug\WorkTimeCalculator.Properties.Resources.resources
+c:\users\student2\documents\visual studio 2013\Projects\WorkTimeCalculator\WorkTimeCalculator\obj\Debug\WorkTimeCalculator.csproj.GenerateResource.Cache
+c:\users\student2\documents\visual studio 2013\Projects\WorkTimeCalculator\WorkTimeCalculator\obj\Debug\WorkTimeCalculator.exe
+c:\users\student2\documents\visual studio 2013\Projects\WorkTimeCalculator\WorkTimeCalculator\obj\Debug\WorkTimeCalculator.pdb
