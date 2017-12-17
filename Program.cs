@@ -14,6 +14,7 @@ namespace WorkTimeCalculator
         [STAThread]
         static void Main()
         {
+            // initialize application
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new WorkTimeCalculatorForm());
