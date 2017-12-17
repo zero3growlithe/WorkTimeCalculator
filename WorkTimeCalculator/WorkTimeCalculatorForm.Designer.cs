@@ -42,7 +42,7 @@
             this.InInputFieldLabel.AutoSize = true;
             this.InInputFieldLabel.Location = new System.Drawing.Point(12, 9);
             this.InInputFieldLabel.Name = "InInputFieldLabel";
-            this.InInputFieldLabel.Size = new System.Drawing.Size(100, 13);
+            this.InInputFieldLabel.Size = new System.Drawing.Size(80, 13);
             this.InInputFieldLabel.TabIndex = 0;
             this.InInputFieldLabel.Text = "\"In\" time table";
             // 
